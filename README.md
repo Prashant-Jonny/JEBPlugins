@@ -1,4 +1,5 @@
-JEBPlugins
-==========
+Plugins for JEB
+===============
 
-Plugins for the JEB Decompiler
+Plugins and scripts for JEB, the Interactive Android app Decompiler.
+More at http://www.android-decompiler.com/download
